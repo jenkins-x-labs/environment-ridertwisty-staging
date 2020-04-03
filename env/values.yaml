@@ -16,7 +16,7 @@ expose:
     domain: cbjx-ridertwisty.jxaas.live
     exposer: Ingress
     http: "true"
-    tlsacme: "false"
+    tlsacme: "true"
     urltemplate: '{{.Service}}-{{.Namespace}}.{{.Domain}}'
 jenkins:
   Servers:
