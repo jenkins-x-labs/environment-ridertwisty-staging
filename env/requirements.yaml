@@ -1,5 +1,4 @@
 dependencies:
 - name: jx-labs-metrics-vs
   repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.8
-
+  version: 0.0.9
