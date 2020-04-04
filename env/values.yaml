@@ -12,6 +12,7 @@ expose:
   Args:
   - --v
   - 4
+  production: "true"
   config:
     domain: cbjx-ridertwisty.jxaas.live
     exposer: Ingress
