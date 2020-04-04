@@ -1,12 +1,4 @@
 dependencies:
-- alias: expose
-  name: exposecontroller
-  repository: http://chartmuseum.jenkins-x.io
-  version: 2.3.118
-- alias: cleanup
-  name: exposecontroller
-  repository: http://chartmuseum.jenkins-x.io
-  version: 2.3.118
 - name: jx-labs-metrics-vs
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.8
