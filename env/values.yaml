@@ -23,3 +23,9 @@ jenkins:
   Servers:
     Global: {}
 prow: {}
+
+jxRequirements:
+  ingress:
+    domain: cbjx-ridertwisty.jxaas.live
+    namespaceSubDomain: -jx.
+    
