@@ -28,5 +28,5 @@ jx-labs-metrics-vs:
   jxRequirements:
     ingress:
       domain: cbjx-ridertwisty.jxaas.live
-      namespaceSubDomain: -jx.
+      namespaceSubDomain: -staging.
     
