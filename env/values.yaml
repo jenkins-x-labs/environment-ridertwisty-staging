@@ -24,8 +24,9 @@ jenkins:
     Global: {}
 prow: {}
 
-jxRequirements:
-  ingress:
-    domain: cbjx-ridertwisty.jxaas.live
-    namespaceSubDomain: -jx.
+jx-labs-metrics-vs:
+  jxRequirements:
+    ingress:
+      domain: cbjx-ridertwisty.jxaas.live
+      namespaceSubDomain: -jx.
     
